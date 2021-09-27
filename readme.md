@@ -1,4 +1,4 @@
-### Hi there, I'm Ayush - aka [andrDEv][Linkedin] 👋
+### Hi there, I'm Ayush - aka [fullDEv][Linkedin] 👋
 
 [![Linkedin](https://img.shields.io/website?label=andrDEv&style=for-the-badge&url=https://www.linkedin.com/in/ayush-jain-654617145/)](https://www.linkedin.com/in/ayush-jain-654617145/)
 [![Twitter](https://img.shields.io/twitter/follow/andrDEv?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Ayushja47958258)
