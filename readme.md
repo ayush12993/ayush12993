@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to develop a single best thing not too many.
-- 🥅 2021 Goals: Contribute more with no lies.
+- 🥅 2021 Goals: Contribute more and help.
 - ⚡ Fun fact: I love to sing and play Games
 
 
