@@ -7,8 +7,8 @@
 ## I'm a Son, Fresher, Developer, and Learner!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 👯 I’m looking to develop a single best thing not too many.
+- 🥅 2021 Goals: Contribute more with no lies.
 - ⚡ Fun fact: I love to sing and play Games
 
 
