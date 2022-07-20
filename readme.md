@@ -1,5 +1,5 @@
 ### Hi there, I'm Ayush - aka [fullDEv][Linkedin] 👋
-<h2>![Profile View Counter](https://komarev.com/ghpvc/?username=ayush12993)</h2>
+![Profile View Counter](https://komarev.com/ghpvc/?username=ayush12993)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ayush12993&show_icons=true)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush12993&theme=white-black)
 ## 😂 Here is a random joke that'll make you laugh!
