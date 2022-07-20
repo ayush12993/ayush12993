@@ -1,5 +1,5 @@
 ### Hi there, I'm Ayush - aka [fullDEv][Linkedin] 👋
-
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ayush12993&show_icons=true)
 [![Linkedin](https://img.shields.io/website?label=andrDEv&style=for-the-badge&url=https://www.linkedin.com/in/ayush-jain-654617145/)](https://www.linkedin.com/in/ayush-jain-654617145/)
 [![Twitter](https://img.shields.io/twitter/follow/andrDEv?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Ayushja47958258)
 [![Youtube](https://img.shields.io/twitter/follow/andrDEv?color=DC143C&logo=youtubet&style=for-the-badge)](https://www.youtube.com/channel/UCDCMmWvMw4ScZ1HiP4F4InA)
